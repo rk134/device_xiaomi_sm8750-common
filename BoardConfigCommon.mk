@@ -50,9 +50,6 @@ TARGET_PROVIDES_LIBAR_PAL := true
 # Bootloader
 TARGET_BOOTLOADER_BOARD_NAME := sun
 
-# Display
-TARGET_SCREEN_DENSITY := 504
-
 # Filesystem
 TARGET_FS_CONFIG_GEN := $(COMMON_PATH)/configs/config.fs
 
@@ -97,6 +94,7 @@ BOARD_BOOTCONFIG := \
     androidboot.vendor.qspa=true
 
 # Kernel (prebuilt)
+PREBUILT_PATH := $(COMMON_PATH)-kernel
 TARGET_NO_KERNEL_OVERRIDE := true
 TARGET_KERNEL_SOURCE := $(PREBUILT_PATH)/kernel-headers
 BOARD_PREBUILT_DTBIMAGE_DIR := $(PREBUILT_PATH)/images/dtbs/
