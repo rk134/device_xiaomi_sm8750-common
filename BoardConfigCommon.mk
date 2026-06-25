@@ -200,4 +200,4 @@ WIFI_HIDL_UNIFIED_SUPPLICANT_SERVICE_RC_ENTRY := true
 WPA_SUPPLICANT_VERSION := VER_0_8_X
 
 # Vendor
-include vendor/xiaomi/onyx/BoardConfigVendor.mk
+include vendor/xiaomi/sm8750-common/BoardConfigVendor.mk
