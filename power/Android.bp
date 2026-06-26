@@ -1,5 +1,5 @@
 cc_library_static {
-    name: "libpowermode-ext-onyx",
+    name: "libpowermode-ext-xiaomi_sm8750",
     defaults: [
         "android.hardware.power-ndk_shared",
     ],
