@@ -4,6 +4,6 @@
 //
 
 runtime_resource_overlay {
-    name: "LineageSettingsOverlayOnyx",
+    name: "LineageSDKOverlayCommon",
     system_ext_specific: true,
 }

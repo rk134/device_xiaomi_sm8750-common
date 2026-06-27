@@ -4,6 +4,6 @@
 //
 
 runtime_resource_overlay {
-    name: "SecureElementOverlayOnyx",
-    vendor: true,
+    name: "LineageSettingsOverlayCommon",
+    system_ext_specific: true,
 }
