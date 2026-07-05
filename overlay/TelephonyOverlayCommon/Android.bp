@@ -4,6 +4,6 @@
 //
 
 runtime_resource_overlay {
-    name: "TelephonyOverlayOnyx",
+    name: "TelephonyOverlayCommon",
     product_specific: true,
 }
