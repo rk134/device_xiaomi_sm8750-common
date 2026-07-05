@@ -40,7 +40,6 @@ bluetooth.profile.vcp.controller.enabled=true
 persist.bluetooth.a2dp_offload.cap=sbc-aac-aptx-aptxhd-ldac-lhdc-mihc
 persist.bluetooth.a2dp_offload.disabled=false
 persist.bluetooth.leaudio_offload.disabled=false
-persist.sys.fflag.override.settings_bluetooth_hearing_aid=false
 persist.vendor.qcom.bluetooth.aptxadaptiver2_1_support=true
 persist.vendor.qti.btadvaudio.target.support.xpan=true
 ro.bluetooth.a2dp_offload.supported=true
@@ -50,7 +49,6 @@ ro.camera.enableCamera1MaxZsl=1
 ro.camerax.extensions.enabled=true
 
 # Crypto
-ro.crypto.metadata_init_delete_all_keys.enabled=true
 vendor.wv.oemcrypto.debug.enable_external_display_check=false
 vendor.wv.oemcrypto.debug.enable_hlos_data_path=true
 
@@ -189,7 +187,6 @@ persist.vendor.radio.procedure_bytes=SKIP
 persist.vendor.radio.sib16_support=1
 persist.vendor.rcs.singlereg.feature=1
 ro.vendor.radio.build_profile=miui
-ro.vendor.radio.build_region=global
 
 # Sensors
 ro.vendor.sensors.xiaomi.udfps=true

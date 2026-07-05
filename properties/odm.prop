@@ -20,12 +20,8 @@ vendor.audio.cpu.sched.douyin.cpuset.at=63
 vendor.audio.cpu.sched.douyin.cpuset.hb=63
 vendor.audio.cpu.sched.douyin.cpuset.he=63
 vendor.audio.cpu.sched.douyin.cpuset.hso=63
-vendor.audio.cpu.sched.onlyfast=false
 vendor.audio.only.douyin.powersave.support=1
 vendor.audio.support.16bit.record=true
-
-# Battery secret
-persist.vendor.region.charger=default
 
 # Bluetooth
 ro.bluetooth.finder.supported=true
@@ -36,7 +32,6 @@ ro.vendor.dynamiccamera.ability_level=2
 # CIT
 persist.vendor.debug.collision.dfx=true
 persist.vendor.sensor.mischeck=true
-ro.vendor.sensor.maxbrightness=10926
 
 # Crypto
 vendor.wv.oemcrypto.debug.enable_prov40=true
