@@ -1,4 +1,5 @@
-bluetooth.device.default_name=POCO F7
-ro.product.odm.model=25053PC47I
-ro.product.odm.name=onyx_in
-vendor.usb.product_string=POCO F7
+bluetooth.device.default_name=Xiaomi 15
+ro.product.odm.brand=Xiaomi
+ro.product.odm.model=24129PN74I
+ro.product.odm.name=dada
+vendor.usb.product_string=Xiaomi 15
